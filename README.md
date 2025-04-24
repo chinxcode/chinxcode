@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://gifsec.com/wp-content/uploads/2022/10/cute-anime-boy-7.gif" height="200" alt="Coding mood" />
+  <img src="https://github.com/chinxcode/chinxcode/blob/7f345b516dad9187f3f2ad43bc290ceb142bfcae/public/that-gif-for-github.gif" height="200" alt="Coding mood" />
 </p>
 
 <br>
